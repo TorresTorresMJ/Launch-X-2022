@@ -1,0 +1,5 @@
+config.txt
+
+archivo de texto prueba de errores KATA 10
+
+LaunchX 
